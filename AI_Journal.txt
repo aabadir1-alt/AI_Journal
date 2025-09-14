@@ -1,1 +1,6 @@
+AI Usage Journal
+Athilah Abadir
+aabadir1@umd.edu
+Section 0302
 
+This week I used AI while working on the Week 1 lab exercises to double-check my solutions and confirm that I was on the right track. I wrote my answers on my own first, and then asked ChatGPT to verify whether my reasoning and outputs matched the expected results.
