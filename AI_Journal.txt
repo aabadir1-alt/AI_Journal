@@ -4,3 +4,6 @@ aabadir1@umd.edu
 Section 0302
 
 This week I used AI while working on the Week 1 lab exercises to double-check my solutions and confirm that I was on the right track. I wrote my answers on my own first, and then asked ChatGPT to verify whether my reasoning and outputs matched the expected results.
+
+Entry 2 (09/21/2025)
+This week I used AI to check over my answers for the exercises and make sure I was on the right track. It was helpful for confirming whether my code was correct and matched what the assignment was asking for. I also ran into an error on Question 30, and I used AI to help me debug the issue and understand what I was doing wrong. This gave me a clearer explanation and helped me fix my code.
