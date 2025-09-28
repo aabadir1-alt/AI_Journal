@@ -7,3 +7,6 @@ This week I used AI while working on the Week 1 lab exercises to double-check my
 
 Entry 2 (09/21/2025)
 This week I used AI to check over my answers for the exercises and make sure I was on the right track. It was helpful for confirming whether my code was correct and matched what the assignment was asking for. I also ran into an error on Question 30, and I used AI to help me debug the issue and understand what I was doing wrong. This gave me a clearer explanation and helped me fix my code.
+
+Entry 3 (09/28/2025)
+This week, I used AI to support my work in the notebook. Specifically, I asked it to help me check whether my defined variables were correct and consistent with the assignment instructions. I also used AI to make sure my quick checks would run properly, so I could actually see results when testing my functions. This helped me catch small issues early and gave me more confidence that my code was functioning as intended.
