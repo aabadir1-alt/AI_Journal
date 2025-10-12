@@ -13,3 +13,6 @@ This week, I used AI to support my work in the notebook. Specifically, I asked i
 
 Entry 4 (10/05/2025)
 This week, I used AI to help me debug my code for Exercises #10 and #13 in the assignment. In both cases, my original solutions were logically correct, but the code wasn’t passing the automated checks because of small edge cases. AI helped me figure out why those issues were happening and how to adjust my code so it would pass the tests without changing the main logic. This process helped me better understand how small details in output formatting or rounding can affect whether code passes validation.
+
+Entry 5 (10/12/2025)
+This week I used AI as a support tool to help me check my answers and debug small issues in my code for the Week 5 exercises. I used it to confirm whether my logic for encapsulation, getters and setters, and property methods was correct, and to figure out why some of my demo outputs were not displaying as expected. I mainly used it to understand my mistakes and verify that my code was functioning the way it should.
