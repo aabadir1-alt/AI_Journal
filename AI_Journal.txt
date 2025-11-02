@@ -19,3 +19,6 @@ This week I used AI as a support tool to help me check my answers and debug smal
 
 Entry 6 (10/26/2025)
 I used AI to confirm that the code I wrote for my Week 6 exercises was correct and followed the assignment requirements. It also helped me create demo sections to test and verify that each solution produced the expected results. This made it easier for me to check my work and understand how my code functions in practice.
+
+Entry 7 (11/02/2025)
+I used AI to help me fix two errors I was getting while working on my Week 7 Python assignment. One was a syntax error where I forgot to comment out an example line, and the other was a NameError because I tried to use a variable before creating it. AI helped me figure out what caused both issues and how to fix them. It made it easier for me to understand my mistakes and learn how to avoid them in the future.
