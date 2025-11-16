@@ -20,7 +20,11 @@ This week I used AI as a support tool to help me check my answers and debug smal
 Entry 6 (10/26/2025)
 I used AI to confirm that the code I wrote for my Week 6 exercises was correct and followed the assignment requirements. It also helped me create demo sections to test and verify that each solution produced the expected results. This made it easier for me to check my work and understand how my code functions in practice.
 
-Entry 7 (11/09/2025)
-I used AI as a learning support tool to check my answers and help resolve errors in my code. It guided me through debugging issues and clarifying steps I wasn’t sure about, but I completed and understood the work myself.
 Entry 7 (11/02/2025)
 I used AI to help me fix two errors I was getting while working on my Week 7 Python assignment. One was a syntax error where I forgot to comment out an example line, and the other was a NameError because I tried to use a variable before creating it. AI helped me figure out what caused both issues and how to fix them. It made it easier for me to understand my mistakes and learn how to avoid them in the future.
+
+Entry 8 (11/09/2025)
+I used AI as a learning support tool to check my answers and help resolve errors in my code. It guided me through debugging issues and clarifying steps I wasn’t sure about, but I completed and understood the work myself.
+
+Entry 9 (11/16/2025)
+I used AI as a support tool to help me check my answers and troubleshoot several errors I was running into. As I built out the abstract classes and implemented the different methods, I occasionally got stuck on issues related to missing methods, virtual subclass behavior, and template methods not being inherited. I used AI to help me understand why those errors were happening and to verify whether my code followed the requirements for each exercise.
