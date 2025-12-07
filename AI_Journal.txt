@@ -31,3 +31,6 @@ I used AI as a support tool to help me check my answers and troubleshoot several
 
 Entry 10 (11/23/2025)
 For this assignment, I used AI to double-check my answers and make sure my code matched the instructions. I also used it to help me fix a few errors when my code wasn’t running or I couldn’t figure out what was wrong. It helped point me in the right direction, but I still made the changes myself.
+
+Entry 11 (12/07/2025)
+I did not use AI this week. 
